@@ -1,4 +1,4 @@
-for rango 0…10{
+for rango 0…100{
 	Print(rango)
 	
 		if rango%5 == 0 {
